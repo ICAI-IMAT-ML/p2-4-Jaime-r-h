@@ -2,7 +2,7 @@ import pytest
 import numpy as np
 from src.Lab_2_4_LR2 import (
     LinearRegressor,
-    evaluate_regression,
+    evaluate_regression, 
     one_hot_encode,
 )  # Assuming the class is in linear_regressor.py
 
